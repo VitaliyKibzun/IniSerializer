@@ -37,7 +37,6 @@ namespace IniSerializer2
             }
 
 
-
             // Launch Deserialization
             try
             {

@@ -1,0 +1,6 @@
+C:\Users\vitalyki\Documents\Visual Studio 2012\Projects\IniSerializer2\IniSerializer2\bin\Debug\IniSerializer2.exe.config
+C:\Users\vitalyki\Documents\Visual Studio 2012\Projects\IniSerializer2\IniSerializer2\bin\Debug\IniSerializer2.exe
+C:\Users\vitalyki\Documents\Visual Studio 2012\Projects\IniSerializer2\IniSerializer2\bin\Debug\IniSerializer2.pdb
+C:\Users\vitalyki\Documents\Visual Studio 2012\Projects\IniSerializer2\IniSerializer2\obj\Debug\IniSerializer2.csprojResolveAssemblyReference.cache
+C:\Users\vitalyki\Documents\Visual Studio 2012\Projects\IniSerializer2\IniSerializer2\obj\Debug\IniSerializer2.exe
+C:\Users\vitalyki\Documents\Visual Studio 2012\Projects\IniSerializer2\IniSerializer2\obj\Debug\IniSerializer2.pdb
